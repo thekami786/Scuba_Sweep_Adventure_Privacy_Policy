@@ -1,6 +1,6 @@
 # Privacy Policy for Scuba Sweep Adventure
 
-**Last Updated:** June 3, 2026
+**Last Updated:** June, 2026
 
 Welcome to **Scuba Sweep Adventure** (referred to as "the Game"), developed by **The Kami**. We are committed to protecting your privacy and ensuring a safe gaming environment. This Privacy Policy describes how we handle information in connection with the Game.
 
